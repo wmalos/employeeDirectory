@@ -6,7 +6,7 @@ function Header() {
       <div class="container">
         <h1 class="display-4">Employee Directory</h1>
         <p class="lead">
-          Search for employees by first or last name.
+          Search for employees and sort by last name.
         </p>
       </div>
     </div>
