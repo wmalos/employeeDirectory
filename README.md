@@ -17,7 +17,7 @@ se command 'npm i' in order to download the required dependencies.
 The user can keep track of their employees and easily find and sort through them.
 
 ## Links
-
+https://wmalos.github.io/employeeDirectory/
 
 ## License
 ![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
